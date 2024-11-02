@@ -79,4 +79,4 @@ API orqali mail jo'natish uchun Swagger hujjatlaridan foydalaning. Hujjatlar orq
 
 ## Yordam
 
-Qo'shimcha savol va takliflar uchun [Issues](https://github.com/your-username/your-repo/issues) bo'limidan foydalaning.
+Qo'shimcha savol va takliflar uchun [Issues](https://github.com/bek-shoyatbek/free-mail-sending-example-with-brevo/issues) bo'limidan foydalaning.
